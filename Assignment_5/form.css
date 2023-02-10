@@ -1,0 +1,35 @@
+
+body {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	background: #f2f2f2;
+}
+h2{
+    font-size:1.5em;
+    line-height:1.5em;
+    margin: 8% auto 0;
+    text-align: center;
+}
+
+label{
+    font-size:12px;
+}
+form {
+	background: rgb(11, 138, 123);
+	width: 400px;
+	max-width: 100%;
+	box-sizing: border-box;
+	padding: 50px;
+	margin: 8% auto 0;
+    border:  5px solid black;
+}
+button{
+    background-color: rgb(133, 80, 255);
+
+}
+title{
+    text-align: center;
+    padding: bottom 15px;
+    position: relative;
+    margin: 8% auto 0;
+}
