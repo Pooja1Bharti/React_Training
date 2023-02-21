@@ -4,4 +4,7 @@ function validateform(){
   var password = document.getElementById("password")
   if(eamil.value != "" || password.value != "")
   alert("logged in successfully!!!!!")
+   else{
+    alert("enter required value....")
+  }
 }
