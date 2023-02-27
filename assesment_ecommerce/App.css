@@ -1,0 +1,29 @@
+.features{
+  float: left;
+  font-family: 'Inconsolata', monospace;
+  size: 0vmax;
+
+ 
+}
+.title{
+  font-family: 'Inconsolata', monospace;
+  font-size: large;
+}
+.description{
+  font-family: 'Inconsolata', monospace;
+  font-size: medium;
+}
+.price{
+  font-family: 'Inconsolata', monospace;
+  font-size: medium;
+  font-weight: bold;
+}
+.button{
+  height: 35px;
+  margin-left :10px;
+  font-weight: bold;
+  background-color:cadetblue;
+color: #fff;
+border-radius: 8px;
+box-shadow: 0 3px 5px rgba(0, 0, 0, 0.18);
+}
